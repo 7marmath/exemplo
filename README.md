@@ -26,11 +26,13 @@ exemplo
   - commit semantico: É informar com sufixo e em poucas palavras o que foi realizado nessa unidade de trabalho.
   
 
+  ## Na raiz do projeto
 
+
+  ## Commits
   [FEAT] adicionar algo
-
   [FEATCODE]  adicionar algum codigo
-  
+   teste
 
 
 
